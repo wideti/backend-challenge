@@ -18,8 +18,7 @@ Você pode usar a API do **OpenWeatherMaps** (https://openweathermap.org) para p
 - Enviar o projeto em Docker.
 - Teste de integração.
 
-Lembre-se, este serviço deve estar preparado para ser tolerante a falhas, responsivo e resiliente.
-
 Gostaríamos também que descrevesse os detalhes da arquitetura e padrões utilizados na criação do projeto.
 Não esqueça de criar a documentação da API com instruções de como executar. (README)
-Por fim, compartilhe o seu código conosco via GitHub (público).
+
+Criar um repositório **privado** no github e adicionar nosso usuário developers@wideti.com.br como colaborador.
